@@ -88,10 +88,3 @@ python3 inference.py "Write a function to reverse a string"
 python3 app.py
 ```
 
----
-
-## Next steps / stretch goals
-
-- Add an evaluation script (pass@1 on a small held-out coding benchmark)
-- Expand the training dataset beyond the 3,000-example subset
-- Experiment with a larger base model (1.5B/3B) for comparison
